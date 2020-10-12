@@ -1,2 +1,3 @@
-boss,9081754476,Tang,Hanlin
+role,NetID,FamilyName,GivenName
+boss,htang79,Tang,Hanlin
 employee,xwang2443,Wang,Xiaofeng
